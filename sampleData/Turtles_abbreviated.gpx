@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX iPhone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2020-09-21T18:25:50Z</time>
+ </metadata>
+ <trk>
+  <name>Turtles </name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="36.0331330" lon="-80.3050760">
+    <ele>235.1</ele>
+    <time>2020-09-21T18:25:50Z</time>
+   </trkpt>
+   <trkpt lat="36.0331540" lon="-80.3050150">
+    <ele>233.0</ele>
+    <time>2020-09-21T18:25:51Z</time>
+   </trkpt>
+   <trkpt lat="36.0331270" lon="-80.3049990">
+    <ele>234.0</ele>
+    <time>2020-09-21T18:25:52Z</time>
+   </trkpt>
+   <trkpt lat="36.0331000" lon="-80.3049830">
+    <ele>233.8</ele>
+    <time>2020-09-21T18:25:53Z</time>
+   </trkpt>
+   <trkpt lat="36.0310120" lon="-80.3032420">
+    <ele>259.7</ele>
+    <time>2020-09-21T19:00:50Z</time>
+   </trkpt>
+   <trkpt lat="36.0310140" lon="-80.3032400">
+    <ele>259.7</ele>
+    <time>2020-09-21T19:00:51Z</time>
+   </trkpt>
+   <trkpt lat="36.0310160" lon="-80.3032360">
+    <ele>259.7</ele>
+    <time>2020-09-21T19:00:52Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
