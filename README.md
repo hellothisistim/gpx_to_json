@@ -1,2 +1,1 @@
-# gpx_to_json
-Convert selected data in GPX files (like from Strava) to JSON (because I want to use it in Houdini)
+Ignoring all good sense and knowledge of spherical geometry and proportion, naively convert the lattitude, longitude, and elevation in a GPX file into X, Y, and Z positions, while also converting time stamps into seconds since start. Export that mess to a JSON file because I hate XML.
