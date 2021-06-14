@@ -1,3 +1,4 @@
 
 sampleData/*.json
 *.pyc
+*.hipnc
