@@ -1,13 +1,23 @@
 import hou
 import json
+import os
 
-with open('/Users/bowmant/code/gpx_to_json/sampleData/Turtles_.json', 'r') as json_file:
+"""
+import sys; import os; sys.path.append(os.path.dirname(hou.hipFile.path()))
+"""
+
+in_file = 'sampleData/Turtles_abbreviated.json'
+json_filename = (os.path.join(os.path.dirname(__file__), in_file))
+print json_filename
+with open(json_filename, 'r') as json_file:
     data = json_file.read()
 points = json.loads(data)
 
 feetPerDegree = 364320
 
 #hou.hipFile.clear()
+
+obj = hou.node('/obj')
 
 print 'Get geo'
 geo = obj.node('/obj/geo_for_points')
