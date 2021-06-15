@@ -2,3 +2,4 @@
 sampleData/*.json
 *.pyc
 *.hipnc
+*.obj
